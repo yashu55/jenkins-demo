@@ -1,3 +1,4 @@
-@Library('demoFunc')
+
+@Library('shared-lib@master')
 
 demoFunc()
